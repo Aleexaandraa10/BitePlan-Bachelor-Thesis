@@ -1,4 +1,4 @@
-# BitePlan – Bachelor Thesis Project
+# BitePlan
 
 BitePlan is an Android application developed as part of my Bachelor's thesis, designed to support users in building healthier eating habits through intelligent and personalized nutrition management. The application combines modern mobile development with Artificial Intelligence and Machine Learning to provide personalized meal plans, AI-powered food recognition and progress prediction, while facilitating communication between clients and nutritionists within a unified platform.
 
