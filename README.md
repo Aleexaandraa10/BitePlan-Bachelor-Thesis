@@ -16,6 +16,7 @@ The repository includes the complete Bachelor's thesis, the presentation used du
 ### Backend
 - Node.js
 - Express.js
+- FastAPI
 
 ### Database & Cloud
 - Azure SQL Database
@@ -26,6 +27,16 @@ The repository includes the complete Bachelor's thesis, the presentation used du
 - YOLOv8
 - Google ML Kit
 - Random Forest Regressor
+
+### External APIs
+- Spoonacular API
+- Open Food Facts API
+- Groq API
+- DeepL API
+
+### Development & Training Tools
+- Roboflow
+- Google Colab
 
 ### External APIs
 - Spoonacular API
