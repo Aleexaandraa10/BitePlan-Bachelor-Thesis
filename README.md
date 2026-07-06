@@ -37,9 +37,3 @@ The repository includes the complete Bachelor's thesis, the presentation used du
 ### Development & Training Tools
 - Roboflow
 - Google Colab
-
-### External APIs
-- Spoonacular API
-- Open Food Facts API
-- Groq API
-- DeepL API
